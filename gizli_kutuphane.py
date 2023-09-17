@@ -1,4 +1,4 @@
 def cok_gizli_mayalama_tarifi():
-    print("TEKNOFEST{m4y4l4n1y0r...}")
+    # Az kalsin gizli tarifim elden gidiyordu. Sildim de kurtuldum.
     pass
 
